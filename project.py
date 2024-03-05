@@ -1,10 +1,10 @@
 import os
 
-list1 = [18, 3, 3, 65, 1, 191]
+list1 = [8, 9, 3, 6, 1, 10]
 list1.reverse()
 print("The reversed list is", list1)
 
-list2 = [91, 6, 120, 34, 6, 54, 188, 81, 35, 28, 3430]
+list2 = [91, 67, 120, 34, 76, 54, 78, 87, 56, 64, 345]
 list2.sort()
 print("The sorted list is", list2)
 
@@ -14,3 +14,4 @@ print("List3 -", list3)
 
 index_value = list2[2:6]
 print("The index values are", index_value)
+
